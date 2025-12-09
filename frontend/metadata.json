@@ -1,0 +1,5 @@
+{
+  "name": "Ilaria HR Chatbot",
+  "description": "A RAG-based instructional chatbot widget for the Ilaria HR Management System, featuring a React frontend with a clean, modern UI.",
+  "requestFramePermissions": []
+}

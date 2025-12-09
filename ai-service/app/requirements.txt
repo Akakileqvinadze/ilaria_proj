@@ -1,0 +1,22 @@
+# FastAPI & Server
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-dotenv==1.0.1
+pydantic==2.6.1
+pydantic-settings==2.1.0
+
+
+# LangChain & AI
+langchain==0.1.9
+langchain-google-genai==0.0.9
+langchain-community==0.0.24
+
+
+# Embeddings & Vector Store
+sentence-transformers==2.3.1
+faiss-cpu==1.7.4
+
+
+# Utilities
+python-multipart==0.0.9
+aiofiles==23.2.1
